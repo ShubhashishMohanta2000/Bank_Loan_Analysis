@@ -13,18 +13,13 @@ I'm excited to share my latest project where I explored a bank loan dataset to u
 
 ## 🛠️ Tools & Tech:
 Python (pandas, seaborn, matplotlib, numpy)
-
 Power BI
-
 Jupyter Notebook
 
 ## 🔍 Key Takeaways:
 Strong correlation between Income & Loan Approval
-
 Very high correlation between Age and Experience (multicollinearity)
-
 Mortgage has very little impact on loan approval
-
 Target customers with high credit card usage for loan marketing
 
 💼 This project demonstrates how data storytelling and visualization can transform raw data into valuable business insights.
